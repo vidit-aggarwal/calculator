@@ -10,3 +10,11 @@ We can perform the following basic functions using this calculator:
 **It also uses Exception Handling.**
 
 ## Screenshots
+#### Addition
+![addition](https://github.com/vidit-aggarwal/calculator/blob/master/addition.png)
+#### Subtraction
+![substraction](https://github.com/vidit-aggarwal/calculator/blob/master/subtraction.png)
+#### Multiplication
+![multiplication](https://github.com/vidit-aggarwal/calculator/blob/master/multiplication.png)
+#### Division
+![division](https://github.com/vidit-aggarwal/calculator/blob/master/division.png)
